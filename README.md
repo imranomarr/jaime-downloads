@@ -2,14 +2,23 @@
 
 Your camera and AI cards, together.
 
-## [Download Jaime for Windows](https://github.com/imranomarr/jaime-downloads/releases/download/v0.1.0-win-beta.3/Jaime-Setup-0.1.0-win-beta.3-x64.exe)
+## Download for Windows
+
+**The installer is not available on GitHub yet.**
+
+When it is published:
+
+1. Open **Releases** on this repository's main page.
+2. Open the latest Windows release.
+3. Under **Assets**, download the file ending in **.exe**. Do not choose **Source code**.
 
 **Full installer · 845 MB · Windows 64-bit**
 
-1. Click **Download Jaime for Windows** above.
-2. Close Jaime and camera apps, including Chrome, Zoom and OBS.
-3. Open the downloaded file and follow the setup steps.
-4. Open **Jaime** from the Start menu. Choose **Open Chat** to type, or **Set up voice** to use your microphone.
+## Install
+
+1. Close Jaime and camera apps, including Chrome, Zoom and OBS.
+2. Open the downloaded file and follow the setup steps.
+3. Open **Jaime** from the Start menu. Choose **Open Chat** to type, or **Set up voice** to use your microphone.
 
 The app, virtual camera and local speech files are included.
 
@@ -31,4 +40,3 @@ Keep your saved Jaime data. There is no need to delete your settings.
 [Need help? Report a problem](https://github.com/imranomarr/jaime-downloads/issues/new)
 
 Version: 0.1.0-win-beta.3
-
